@@ -1,3 +1,6 @@
+# root bin
+bin/
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
